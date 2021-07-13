@@ -12,6 +12,10 @@ npm i @babel/core babel-loader @babel/preset-env @babel/preset-react --save-dev
 
 //instalar o react com react dom
 npm i react react-dom
+npm i -D babel-preset-react
+
+//instalar o webpack-plugin html-loader
+npm i -D html-webpack-plugin html-loader
 
 //depois de configurado o modo "Development", executar
 npm run dev
