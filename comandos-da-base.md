@@ -9,3 +9,9 @@ npm run build
 
 // instalar o babel
 npm i @babel/core babel-loader @babel/preset-env @babel/preset-react --save-dev
+
+//instalar o react com react dom
+npm i react react-dom
+
+//depois de configurado o modo "Development", executar
+npm run dev
