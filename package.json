@@ -1,0 +1,24 @@
+{
+  "name": "webpack-com-reactjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^5.44.0",
+    "webpack-cli": "^4.7.2"
+  },
+  "scripts":{
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/killvorak2/webpack-com-reactjs.git"
+  },
+  "author": "Marcelo Ceribelli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/killvorak2/webpack-com-reactjs/issues"
+  },
+  "homepage": "https://github.com/killvorak2/webpack-com-reactjs#readme"
+}
