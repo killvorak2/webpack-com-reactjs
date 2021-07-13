@@ -19,3 +19,9 @@ npm i -D html-webpack-plugin html-loader
 
 //depois de configurado o modo "Development", executar
 npm run dev
+
+// para colocar em funcionamento
+npm i -D webpack-dev-server
+
+//instalar o Eslint
+npm install --save-dev eslint babel-eslint eslint-plugin-react eslint-watch
